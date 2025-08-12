@@ -1,1 +1,5 @@
-
+{
+  "application_name": "Dunder Mifflin HRIS",
+  "application_type": "HRIS",
+  "description": "Employee management for Dunder Mifflin Paper Company"
+}
