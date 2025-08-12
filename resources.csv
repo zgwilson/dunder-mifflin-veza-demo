@@ -1,1 +1,7 @@
-
+id,name,type,parent_resource_id,custom_attributes
+Scranton,Scranton Branch,branch,,""
+1,Management,department,Scranton,"{""branch"":""Scranton""}"
+2,Sales,department,Scranton,"{""branch"":""Scranton""}"
+3,Warehouse,department,Scranton,"{""branch"":""Scranton""}"
+Bond,Bond Paper,paper_type,,""
+Letterhead,Company Letterhead,paper_type,,""
