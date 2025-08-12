@@ -1,1 +1,19 @@
-
+identity_id,permission_id,resource_id
+1,view_department,1
+1,edit_employee,1
+1,approve_timesheet,1
+1,access_branch,Scranton
+1,order_paper,Scranton
+1,manage_pricing,Scranton
+1,plan_party,Scranton
+2,view_department,2
+2,access_branch,Scranton
+2,pr Dwight,Scranton
+2,sell_paper,Scranton
+3,view_department,1
+3,access_branch,Scranton
+3,plan_party,Scranton
+4,view_department,2
+4,access_branch,Scranton
+4,manage_warehouse,3
+4,sell_paper,Scranton
