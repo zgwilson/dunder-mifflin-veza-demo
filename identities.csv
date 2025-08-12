@@ -1,1 +1,5 @@
-
+id,name,email,custom_attributes
+1,Michael Scott,michael@dm.com,"{""job_title"":""Regional Manager"",""branch"":""Scranton""}"
+2,Jim Halpert,jim@dm.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
+3,Pam Beesly,pam@dm.com,"{""job_title"":""Receptionist"",""branch"":""Scranton""}"
+4,Dwight Schrute,dwight@dm.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
