@@ -1,5 +1,7 @@
 id,name,email,custom_attributes
-1,Michael Scott,michael@dm.com,"{""job_title"":""Regional Manager"",""branch"":""Scranton""}"
-2,Jim Halpert,jim@dm.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
-3,Pam Beesly,pam@dm.com,"{""job_title"":""Receptionist"",""branch"":""Scranton""}"
-4,Dwight Schrute,dwight@dm.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
+1,Michael Scott,zwilson+michael@veza.com,"{""job_title"":""Regional Manager"",""branch"":""Scranton""}"
+2,Jim Halpert,zwilson+jim@veza.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
+3,Pam Beesly,zwilson+pam@veza.com,"{""job_title"":""Receptionist"",""branch"":""Scranton""}"
+4,Dwight Schrute,zwilson+dwight@veza.com,"{""job_title"":""Salesman"",""branch"":""Scranton""}"
+5,Toby Flanderson,zwilson+toby@veza.com,"{""job_title"":""HR Manager"",""branch"":""Scranton""}"
+6,Darryl Philbin,zwilson+darryl@veza.com,"{""job_title"":""Warehouse Foreman"",""branch"":""Scranton""}"
