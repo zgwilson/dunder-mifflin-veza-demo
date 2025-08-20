@@ -1,0 +1,7 @@
+resource_id,name,resource_type,description,parent_id
+ScrantonBranch,Scranton Branch,branch,Scranton Branch,
+ManagementDept,Management,department,Management Department,ScrantonBranch
+WarehouseDept,Warehouse,department,Warehouse Department,ScrantonBranch
+SalesDept,Sales,department,Sales Department,ScrantonBranch
+BondPaper,Bond Paper,paper_type,Bond Paper,
+LetterheadPaper,Company Letterhead,paper_type,Company Letterhead,

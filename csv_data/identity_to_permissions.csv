@@ -1,0 +1,20 @@
+identity,identity_type,permission,resource_name
+michael,local_user,ViewDept,Management
+michael,local_user,EditDept,Management
+michael,local_user,ApproveTime,Management
+michael,local_user,AccessBranch,Scranton Branch
+michael,local_user,OrderPaper,Bond Paper
+michael,local_user,OrderPaper,Company Letterhead
+michael,local_user,ManagePricing,Scranton Branch
+michael,local_user,ManageWarehouse,Warehouse
+jim,local_user,ViewDept,Sales
+jim,local_user,AccessBranch,Scranton Branch
+jim,local_user,OrderPaper,Bond Paper
+jim,local_user,OrderPaper,Company Letterhead
+pam,local_user,ViewDept,Management
+pam,local_user,AccessBranch,Scranton Branch
+dwight,local_user,ViewDept,Sales
+dwight,local_user,AccessBranch,Scranton Branch
+dwight,local_user,ManageWarehouse,Warehouse
+managers,local_group,ViewDept,Management
+sales,local_group,ViewDept,Sales

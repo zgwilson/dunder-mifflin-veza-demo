@@ -1,0 +1,4 @@
+department_id,department_name,parent_id
+D001,Executive,
+D002,Sales,D001
+D003,Manufacturing,D001

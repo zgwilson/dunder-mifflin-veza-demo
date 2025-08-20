@@ -1,0 +1,8 @@
+name,permissions
+ViewDept,DataRead
+EditDept,DataRead;DataWrite
+ApproveTime,DataRead;DataWrite
+AccessBranch,DataRead
+OrderPaper,DataRead
+ManagePricing,DataRead;DataWrite
+ManageWarehouse,DataRead;DataWrite

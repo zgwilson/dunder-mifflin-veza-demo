@@ -1,0 +1,5 @@
+employee_id,employee_name,identity,hire_date,title
+E1001,Michael Scott,zwilson+Michael.Scott@veza.com,1999-04-01,Branch Manager
+E1002,Jim Halpert,zwilson+Jim.Halpert@veza.com,2001-06-15,Salesman
+E1003,Pam Beesly,zwilson+pam@veza.com,2001-08-12,Receptionist
+E1004,Dwight Schrute,zwilson+Dwight.Schrute@veza.com,2000-08-01,Salesman

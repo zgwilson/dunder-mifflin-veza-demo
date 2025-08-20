@@ -1,0 +1,8 @@
+permission_id,permission_name,veza_permissions
+ViewDept,ViewDept,DataRead
+EditDept,EditDept,"DataRead,DataWrite"
+ApproveTime,ApproveTime,"DataRead,DataWrite"
+AccessBranch,AccessBranch,DataRead
+OrderPaper,OrderPaper,DataRead
+ManagePricing,ManagePricing,"DataRead,DataWrite"
+ManageWarehouse,ManageWarehouse,"DataRead,DataWrite"

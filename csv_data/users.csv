@@ -1,0 +1,5 @@
+identity,name,full_name,is_active,job_title,branch,groups
+zwilson+Michael.Scott@veza.com,michael,Michael Scott,true,Manager,Scranton,managers
+zwilson+Jim.Halpert@veza.com,jim,Jim Halpert,true,Salesman,Scranton,sales
+zwilson+pam@veza.com,pam,Pam Beesly,true,Receptionist,Scranton,
+zwilson+Dwight.Schrute@veza.com,dwight,Dwight Schrute,true,Salesman,Scranton,sales
